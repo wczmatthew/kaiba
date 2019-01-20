@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import sys
-# main方法 从 这里开始 start here by matthew
+# main方法 从 这里开始 start here by blackman 
 def main(argc, argv):
     if argc != 2:
         sys.stderr.write("Usage: %s <num>\n" % argv[0])
